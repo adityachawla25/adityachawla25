@@ -3,19 +3,19 @@
 <h3 align="center">Passionate frontend developer hailing from India, crafting captivating digital experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
-- 🔭 I’m currently working on **Student Management System**
+- 🔭 I’m currently working on **Student Management System.**
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Machine learning.**
 
-- 👯 I’m looking to collaborate on **E-commerce project**
+- 👯 I’m looking to collaborate on **E-commerce project.**
 
-- 💬 Ask me about **Frontend Development and asp.net frameworks**
+- 💬 Ask me about **Frontend Development and asp.net frameworks.**
 
 - 📫 How to reach me **chawlaaditya25@gmail.com**
 
 - 📄 Know about my experiences [https://harlequin-faydra-78.tiiny.site/](https://harlequin-faydra-78.tiiny.site/)
 
-- ⚡ Fun fact **I consider Ctrl+Z to be the most powerful keyboard shortcut in existence. 🚀⌨️**
+- ⚡ Fun fact **-I consider Ctrl+Z to be the most powerful keyboard shortcut in existence. 🚀⌨️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
